@@ -12,7 +12,7 @@
 // alert (message + bitchName);
 
 // character counter js code to inplement in character wounder website
-// let bars = prompt("write what u want fam");
-// let textCount = bars.length;
-// let whatsLeft = (280 - textCount);
-// alert (`u have used ${textCount} characters out of 280, u only have ${whatsLeft} left.`);
+let bars = prompt("write what u want fam");
+let textCount = bars.length;
+let whatsLeft = (280 - textCount);
+ alert (`u have used ${textCount} characters out of 280, u only have ${whatsLeft} left.`);
